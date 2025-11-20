@@ -4,3 +4,7 @@ Flask-Bcrypt==1.0.1
 Flask-Login==0.6.3
 python-dotenv
 requests
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+requests
