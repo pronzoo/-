@@ -1,5 +1,4 @@
 Flask==3.0.3
 Flask-SQLAlchemy==3.1.1
-pip install flask-bcrypt
-pip install flask-login
-
+Flask-Bcrypt==1.0.1
+Flask-Login==0.6.3
